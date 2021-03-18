@@ -10,7 +10,8 @@ namespace A877810.Actividad01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo!");
+            Console.WriteLine("Hola Mundo! \n");
+            Console.WriteLine("Presione una tecla cualquiera para salir.");
             Console.ReadLine();
         }
     }
