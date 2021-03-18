@@ -12,7 +12,6 @@ namespace A877810.Actividad01
         {
             Console.WriteLine("Hola Mundo!");
             Console.ReadLine();
-            Console.WriteLine("Test");
         }
     }
 }
